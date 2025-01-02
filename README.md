@@ -1,4 +1,4 @@
-<h1 align="center"> Refund Page </h1>
+<h1 align="center"> Refund </h1>
 
 <p align= "center">
 Uma página para reembolsos empresariais feita como forma de estudos do curso Fullstack da Rocketseat</p>
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Refund Page foi um mini projeto do curso Fullstack da Rocketseat no módulo "JavaScript", onde trabalhei com objetos, arrays e repetições para criar uma funcionalidade de reembolso.
+O "Refund" foi um mini projeto do curso Fullstack da Rocketseat no módulo "JavaScript", onde trabalhei com objetos, arrays e repetições para criar uma funcionalidade de reembolso.
 
 ## 📚 Aprendizados
 
